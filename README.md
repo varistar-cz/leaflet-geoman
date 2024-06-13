@@ -28,6 +28,10 @@
     <img src="https://geoman-static.onrender.com/assets/draw-example.png" alt="Demo" />  
 </p>
 
+## Varistar note
+Určeno pro využití v portálu.
+Aktuálně tento repo nepoužíváme
+
 ## Documentation
 
 Visit [geoman.io/docs](https://www.geoman.io/docs) to get started.
